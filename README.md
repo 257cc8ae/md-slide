@@ -1,4 +1,8 @@
-# slide
+# Markdown Slide
+
+Markdownを使ってスライドショーを作成するためのツール（開発中です。）
+どんな感じにするかは未定。
+かっこいいデザインにするつもり
 
 ## Build Setup
 
